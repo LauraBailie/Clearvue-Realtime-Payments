@@ -1,0 +1,2335 @@
+[{
+  "DailySales": 190,
+  "Date": "2020-01-01",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 3275,
+  "Date": "2020-01-01",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 1040,
+  "Date": "2020-01-01",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 345,
+  "Date": "2020-01-01",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 885,
+  "Date": "2020-01-01",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 1535,
+  "Date": "2020-01-01",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-01",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-06",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 150,
+  "Date": "2020-01-06",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 200,
+  "Date": "2020-01-06",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-06",
+  "ProductCategory": "16"
+},
+{
+  "DailySales": 1782,
+  "Date": "2020-01-06",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 1030,
+  "Date": "2020-01-06",
+  "ProductCategory": "23"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-06",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-06",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 27838,
+  "Date": "2020-01-06",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 11762,
+  "Date": "2020-01-06",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-06",
+  "ProductCategory": "31"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-06",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 2020,
+  "Date": "2020-01-06",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 2365,
+  "Date": "2020-01-06",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 1255,
+  "Date": "2020-01-06",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-06",
+  "ProductCategory": "41"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-06",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 1060,
+  "Date": "2020-01-06",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 10912,
+  "Date": "2020-01-06",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 390,
+  "Date": "2020-01-06",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-06",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 832,
+  "Date": "2020-01-07",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 585,
+  "Date": "2020-01-07",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 1840,
+  "Date": "2020-01-07",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 80,
+  "Date": "2020-01-07",
+  "ProductCategory": "15"
+},
+{
+  "DailySales": 1180,
+  "Date": "2020-01-07",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 741,
+  "Date": "2020-01-07",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 5059,
+  "Date": "2020-01-07",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 16784,
+  "Date": "2020-01-07",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 2605,
+  "Date": "2020-01-07",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-07",
+  "ProductCategory": "32"
+},
+{
+  "DailySales": 4760,
+  "Date": "2020-01-07",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-07",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-07",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-07",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 4165,
+  "Date": "2020-01-07",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-07",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 520,
+  "Date": "2020-01-08",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 1000,
+  "Date": "2020-01-08",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 298,
+  "Date": "2020-01-08",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 130,
+  "Date": "2020-01-08",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 990,
+  "Date": "2020-01-08",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 160,
+  "Date": "2020-01-08",
+  "ProductCategory": "15"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-08",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 854,
+  "Date": "2020-01-08",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 4483,
+  "Date": "2020-01-08",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 9985,
+  "Date": "2020-01-08",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-08",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 585,
+  "Date": "2020-01-08",
+  "ProductCategory": "32"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-08",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 1190,
+  "Date": "2020-01-08",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 2285,
+  "Date": "2020-01-08",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 345,
+  "Date": "2020-01-08",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-08",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-08",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-08",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 3570,
+  "Date": "2020-01-08",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 2275,
+  "Date": "2020-01-08",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-08",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 231,
+  "Date": "2020-01-09",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 928,
+  "Date": "2020-01-09",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 256,
+  "Date": "2020-01-09",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 75,
+  "Date": "2020-01-09",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-09",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 311,
+  "Date": "2020-01-09",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 376,
+  "Date": "2020-01-09",
+  "ProductCategory": "20"
+},
+{
+  "DailySales": 2199,
+  "Date": "2020-01-09",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 468,
+  "Date": "2020-01-09",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 18754,
+  "Date": "2020-01-09",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 49081,
+  "Date": "2020-01-09",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 386,
+  "Date": "2020-01-09",
+  "ProductCategory": "31"
+},
+{
+  "DailySales": 485,
+  "Date": "2020-01-09",
+  "ProductCategory": "32"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-09",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 4107,
+  "Date": "2020-01-09",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 804,
+  "Date": "2020-01-09",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 386,
+  "Date": "2020-01-09",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 426,
+  "Date": "2020-01-09",
+  "ProductCategory": "41"
+},
+{
+  "DailySales": 615,
+  "Date": "2020-01-09",
+  "ProductCategory": "43"
+},
+{
+  "DailySales": 1183,
+  "Date": "2020-01-09",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 366,
+  "Date": "2020-01-09",
+  "ProductCategory": "49"
+},
+{
+  "DailySales": 426,
+  "Date": "2020-01-09",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 6722,
+  "Date": "2020-01-09",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 34023,
+  "Date": "2020-01-09",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 590,
+  "Date": "2020-01-09",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 1052,
+  "Date": "2020-01-09",
+  "ProductCategory": "96"
+},
+{
+  "DailySales": 625,
+  "Date": "2020-01-09",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 345,
+  "Date": "2020-01-10",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-10",
+  "ProductCategory": "100"
+},
+{
+  "DailySales": 280,
+  "Date": "2020-01-10",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 1710,
+  "Date": "2020-01-10",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 2245,
+  "Date": "2020-01-10",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-10",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 156,
+  "Date": "2020-01-10",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 5850,
+  "Date": "2020-01-10",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 11885,
+  "Date": "2020-01-10",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 1695,
+  "Date": "2020-01-10",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 995,
+  "Date": "2020-01-10",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 2445,
+  "Date": "2020-01-10",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 259,
+  "Date": "2020-01-10",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 914,
+  "Date": "2020-01-10",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 410,
+  "Date": "2020-01-10",
+  "ProductCategory": "43"
+},
+{
+  "DailySales": 2065,
+  "Date": "2020-01-10",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 2380,
+  "Date": "2020-01-10",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 1615,
+  "Date": "2020-01-10",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 75,
+  "Date": "2020-01-10",
+  "ProductCategory": "95"
+},
+{
+  "DailySales": 550,
+  "Date": "2020-01-10",
+  "ProductCategory": "96"
+},
+{
+  "DailySales": 200,
+  "Date": "2020-01-10",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 885,
+  "Date": "2020-01-10",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 10440,
+  "Date": "2020-01-13",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 247,
+  "Date": "2020-01-13",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-13",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-13",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 455,
+  "Date": "2020-01-13",
+  "ProductCategory": "23"
+},
+{
+  "DailySales": 770,
+  "Date": "2020-01-13",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 83,
+  "Date": "2020-01-13",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 5735,
+  "Date": "2020-01-13",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 16668,
+  "Date": "2020-01-13",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 3945,
+  "Date": "2020-01-13",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 1805,
+  "Date": "2020-01-13",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-13",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 4040,
+  "Date": "2020-01-13",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 640,
+  "Date": "2020-01-13",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-13",
+  "ProductCategory": "39"
+},
+{
+  "DailySales": 3035,
+  "Date": "2020-01-13",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 395,
+  "Date": "2020-01-13",
+  "ProductCategory": "41"
+},
+{
+  "DailySales": 590,
+  "Date": "2020-01-13",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-13",
+  "ProductCategory": "48"
+},
+{
+  "DailySales": 1010,
+  "Date": "2020-01-13",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 2158,
+  "Date": "2020-01-13",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 5357,
+  "Date": "2020-01-13",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 630,
+  "Date": "2020-01-13",
+  "ProductCategory": "7"
+},
+{
+  "DailySales": 395,
+  "Date": "2020-01-13",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 212,
+  "Date": "2020-01-13",
+  "ProductCategory": "96"
+},
+{
+  "DailySales": 130,
+  "Date": "2020-01-13",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 149,
+  "Date": "2020-01-14",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 468,
+  "Date": "2020-01-14",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 160,
+  "Date": "2020-01-14",
+  "ProductCategory": "15"
+},
+{
+  "DailySales": 790,
+  "Date": "2020-01-14",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 2575,
+  "Date": "2020-01-14",
+  "ProductCategory": "23"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-14",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 468,
+  "Date": "2020-01-14",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 16825,
+  "Date": "2020-01-14",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 26950,
+  "Date": "2020-01-14",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 4175,
+  "Date": "2020-01-14",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-14",
+  "ProductCategory": "32"
+},
+{
+  "DailySales": 1590,
+  "Date": "2020-01-14",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-14",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 5843,
+  "Date": "2020-01-14",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 2479,
+  "Date": "2020-01-14",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-14",
+  "ProductCategory": "39"
+},
+{
+  "DailySales": 4645,
+  "Date": "2020-01-14",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 2429,
+  "Date": "2020-01-14",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 1370,
+  "Date": "2020-01-14",
+  "ProductCategory": "49"
+},
+{
+  "DailySales": 1635,
+  "Date": "2020-01-14",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 2975,
+  "Date": "2020-01-14",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 4660,
+  "Date": "2020-01-14",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-14",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 162,
+  "Date": "2020-01-14",
+  "ProductCategory": "96"
+},
+{
+  "DailySales": 684,
+  "Date": "2020-01-14",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 395,
+  "Date": "2020-01-15",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 668,
+  "Date": "2020-01-15",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 300,
+  "Date": "2020-01-15",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 1255,
+  "Date": "2020-01-15",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 4385,
+  "Date": "2020-01-15",
+  "ProductCategory": "16"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-15",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-15",
+  "ProductCategory": "23"
+},
+{
+  "DailySales": 1260,
+  "Date": "2020-01-15",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 767,
+  "Date": "2020-01-15",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 7674,
+  "Date": "2020-01-15",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 8518,
+  "Date": "2020-01-15",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 990,
+  "Date": "2020-01-15",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 1990,
+  "Date": "2020-01-15",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 465,
+  "Date": "2020-01-15",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 1285,
+  "Date": "2020-01-15",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 2060,
+  "Date": "2020-01-15",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 990,
+  "Date": "2020-01-15",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 4760,
+  "Date": "2020-01-15",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-15",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 1580,
+  "Date": "2020-01-15",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 152,
+  "Date": "2020-01-15",
+  "ProductCategory": "96"
+},
+{
+  "DailySales": 1315,
+  "Date": "2020-01-15",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 245,
+  "Date": "2020-01-16",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-16",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 280,
+  "Date": "2020-01-16",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 760,
+  "Date": "2020-01-16",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-16",
+  "ProductCategory": "15"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-16",
+  "ProductCategory": "23"
+},
+{
+  "DailySales": 1720,
+  "Date": "2020-01-16",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 509,
+  "Date": "2020-01-16",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 2794,
+  "Date": "2020-01-16",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 19560,
+  "Date": "2020-01-16",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-16",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 3095,
+  "Date": "2020-01-16",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 726,
+  "Date": "2020-01-16",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 429,
+  "Date": "2020-01-16",
+  "ProductCategory": "4"
+},
+{
+  "DailySales": 1293,
+  "Date": "2020-01-16",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 1180,
+  "Date": "2020-01-16",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-16",
+  "ProductCategory": "48"
+},
+{
+  "DailySales": 1485,
+  "Date": "2020-01-16",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 4255,
+  "Date": "2020-01-16",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 7487,
+  "Date": "2020-01-16",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 545,
+  "Date": "2020-01-16",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 395,
+  "Date": "2020-01-16",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 585,
+  "Date": "2020-01-16",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 689,
+  "Date": "2020-01-17",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 90,
+  "Date": "2020-01-17",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 105,
+  "Date": "2020-01-17",
+  "ProductCategory": "100"
+},
+{
+  "DailySales": 267,
+  "Date": "2020-01-17",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 150,
+  "Date": "2020-01-17",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 2601,
+  "Date": "2020-01-17",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 790,
+  "Date": "2020-01-17",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 660,
+  "Date": "2020-01-17",
+  "ProductCategory": "23"
+},
+{
+  "DailySales": 1414,
+  "Date": "2020-01-17",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 608,
+  "Date": "2020-01-17",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 14670,
+  "Date": "2020-01-17",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 16791,
+  "Date": "2020-01-17",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 1160,
+  "Date": "2020-01-17",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 1095,
+  "Date": "2020-01-17",
+  "ProductCategory": "32"
+},
+{
+  "DailySales": 1737,
+  "Date": "2020-01-17",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 2177,
+  "Date": "2020-01-17",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 2528,
+  "Date": "2020-01-17",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 1665,
+  "Date": "2020-01-17",
+  "ProductCategory": "41"
+},
+{
+  "DailySales": 885,
+  "Date": "2020-01-17",
+  "ProductCategory": "43"
+},
+{
+  "DailySales": 2244,
+  "Date": "2020-01-17",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 487,
+  "Date": "2020-01-17",
+  "ProductCategory": "49"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-17",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 2825,
+  "Date": "2020-01-17",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 1370,
+  "Date": "2020-01-17",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 420,
+  "Date": "2020-01-17",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 690,
+  "Date": "2020-01-17",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 695,
+  "Date": "2020-01-17",
+  "ProductCategory": "96"
+},
+{
+  "DailySales": 250,
+  "Date": "2020-01-17",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 576,
+  "Date": "2020-01-17",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 304,
+  "Date": "2020-01-17",
+  "ProductCategory": "99"
+},
+{
+  "DailySales": 860,
+  "Date": "2020-01-20",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 356,
+  "Date": "2020-01-20",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 398,
+  "Date": "2020-01-20",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 2570,
+  "Date": "2020-01-20",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 160,
+  "Date": "2020-01-20",
+  "ProductCategory": "15"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-20",
+  "ProductCategory": "16"
+},
+{
+  "DailySales": 860,
+  "Date": "2020-01-20",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 2405,
+  "Date": "2020-01-20",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 579,
+  "Date": "2020-01-20",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 6955,
+  "Date": "2020-01-20",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 15575,
+  "Date": "2020-01-20",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 1130,
+  "Date": "2020-01-20",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 901,
+  "Date": "2020-01-20",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 2245,
+  "Date": "2020-01-20",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 4130,
+  "Date": "2020-01-20",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 990,
+  "Date": "2020-01-20",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-20",
+  "ProductCategory": "41"
+},
+{
+  "DailySales": 535,
+  "Date": "2020-01-20",
+  "ProductCategory": "43"
+},
+{
+  "DailySales": 885,
+  "Date": "2020-01-20",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 1180,
+  "Date": "2020-01-20",
+  "ProductCategory": "48"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-20",
+  "ProductCategory": "49"
+},
+{
+  "DailySales": 2675,
+  "Date": "2020-01-20",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 9520,
+  "Date": "2020-01-20",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 1965,
+  "Date": "2020-01-20",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-20",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 730,
+  "Date": "2020-01-20",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 590,
+  "Date": "2020-01-20",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-21",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 3416,
+  "Date": "2020-01-21",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 130,
+  "Date": "2020-01-21",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 2540,
+  "Date": "2020-01-21",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 2395,
+  "Date": "2020-01-21",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 624,
+  "Date": "2020-01-21",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 6350,
+  "Date": "2020-01-21",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 14758,
+  "Date": "2020-01-21",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 2495,
+  "Date": "2020-01-21",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 2380,
+  "Date": "2020-01-21",
+  "ProductCategory": "31"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-21",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 6565,
+  "Date": "2020-01-21",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 2760,
+  "Date": "2020-01-21",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 1520,
+  "Date": "2020-01-21",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-21",
+  "ProductCategory": "41"
+},
+{
+  "DailySales": 985,
+  "Date": "2020-01-21",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-21",
+  "ProductCategory": "49"
+},
+{
+  "DailySales": 2100,
+  "Date": "2020-01-21",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 2975,
+  "Date": "2020-01-21",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 795,
+  "Date": "2020-01-21",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 600,
+  "Date": "2020-01-21",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 1980,
+  "Date": "2020-01-22",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 6050,
+  "Date": "2020-01-22",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 782,
+  "Date": "2020-01-22",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 300,
+  "Date": "2020-01-22",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 2375,
+  "Date": "2020-01-22",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 395,
+  "Date": "2020-01-22",
+  "ProductCategory": "19"
+},
+{
+  "DailySales": 1880,
+  "Date": "2020-01-22",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-22",
+  "ProductCategory": "23"
+},
+{
+  "DailySales": 1265,
+  "Date": "2020-01-22",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 652,
+  "Date": "2020-01-22",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 9990,
+  "Date": "2020-01-22",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 22132,
+  "Date": "2020-01-22",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 2645,
+  "Date": "2020-01-22",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 1190,
+  "Date": "2020-01-22",
+  "ProductCategory": "31"
+},
+{
+  "DailySales": 645,
+  "Date": "2020-01-22",
+  "ProductCategory": "32"
+},
+{
+  "DailySales": 3380,
+  "Date": "2020-01-22",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-22",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 5305,
+  "Date": "2020-01-22",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 3089,
+  "Date": "2020-01-22",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 590,
+  "Date": "2020-01-22",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-22",
+  "ProductCategory": "48"
+},
+{
+  "DailySales": 1040,
+  "Date": "2020-01-22",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 7735,
+  "Date": "2020-01-22",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 2165,
+  "Date": "2020-01-22",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 212,
+  "Date": "2020-01-22",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-22",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 990,
+  "Date": "2020-01-23",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 205,
+  "Date": "2020-01-23",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 612,
+  "Date": "2020-01-23",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 260,
+  "Date": "2020-01-23",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 1185,
+  "Date": "2020-01-23",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-23",
+  "ProductCategory": "16"
+},
+{
+  "DailySales": 1255,
+  "Date": "2020-01-23",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 967,
+  "Date": "2020-01-23",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 5735,
+  "Date": "2020-01-23",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 14090,
+  "Date": "2020-01-23",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 1160,
+  "Date": "2020-01-23",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-23",
+  "ProductCategory": "31"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-23",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 9405,
+  "Date": "2020-01-23",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 2415,
+  "Date": "2020-01-23",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 2490,
+  "Date": "2020-01-23",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-23",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-23",
+  "ProductCategory": "48"
+},
+{
+  "DailySales": 1030,
+  "Date": "2020-01-23",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 5355,
+  "Date": "2020-01-23",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 2055,
+  "Date": "2020-01-23",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 545,
+  "Date": "2020-01-23",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-23",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-23",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 365,
+  "Date": "2020-01-24",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 102,
+  "Date": "2020-01-24",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 721,
+  "Date": "2020-01-24",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 955,
+  "Date": "2020-01-24",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-24",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-24",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 950,
+  "Date": "2020-01-24",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 696,
+  "Date": "2020-01-24",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 6416,
+  "Date": "2020-01-24",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 11420,
+  "Date": "2020-01-24",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 400,
+  "Date": "2020-01-24",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-24",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 4675,
+  "Date": "2020-01-24",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 2710,
+  "Date": "2020-01-24",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 2165,
+  "Date": "2020-01-24",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 590,
+  "Date": "2020-01-24",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 1060,
+  "Date": "2020-01-24",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 24416,
+  "Date": "2020-01-24",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 1480,
+  "Date": "2020-01-24",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 545,
+  "Date": "2020-01-24",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 590,
+  "Date": "2020-01-27",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 250,
+  "Date": "2020-01-27",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 1180,
+  "Date": "2020-01-27",
+  "ProductCategory": "100"
+},
+{
+  "DailySales": 300,
+  "Date": "2020-01-27",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 7605,
+  "Date": "2020-01-27",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 14,
+  "Date": "2020-01-27",
+  "ProductCategory": "16"
+},
+{
+  "DailySales": 8260,
+  "Date": "2020-01-27",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 293,
+  "Date": "2020-01-27",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 9060,
+  "Date": "2020-01-27",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 8205,
+  "Date": "2020-01-27",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-27",
+  "ProductCategory": "31"
+},
+{
+  "DailySales": 910,
+  "Date": "2020-01-27",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 345,
+  "Date": "2020-01-27",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 2340,
+  "Date": "2020-01-27",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 5015,
+  "Date": "2020-01-27",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 1370,
+  "Date": "2020-01-27",
+  "ProductCategory": "49"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-27",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 5515,
+  "Date": "2020-01-27",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 760,
+  "Date": "2020-01-28",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 845,
+  "Date": "2020-01-28",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 988,
+  "Date": "2020-01-28",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 130,
+  "Date": "2020-01-28",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 150,
+  "Date": "2020-01-28",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 75,
+  "Date": "2020-01-28",
+  "ProductCategory": "16"
+},
+{
+  "DailySales": 1527,
+  "Date": "2020-01-28",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 1370,
+  "Date": "2020-01-28",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 826,
+  "Date": "2020-01-28",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 8361,
+  "Date": "2020-01-28",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 18141,
+  "Date": "2020-01-28",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 1160,
+  "Date": "2020-01-28",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 1640,
+  "Date": "2020-01-28",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 200,
+  "Date": "2020-01-28",
+  "ProductCategory": "34"
+},
+{
+  "DailySales": 8040,
+  "Date": "2020-01-28",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 5122,
+  "Date": "2020-01-28",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 5810,
+  "Date": "2020-01-28",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 745,
+  "Date": "2020-01-28",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 795,
+  "Date": "2020-01-28",
+  "ProductCategory": "49"
+},
+{
+  "DailySales": 1040,
+  "Date": "2020-01-28",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 7140,
+  "Date": "2020-01-28",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 7200,
+  "Date": "2020-01-28",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 212,
+  "Date": "2020-01-28",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 790,
+  "Date": "2020-01-28",
+  "ProductCategory": "8"
+},
+{
+  "DailySales": 150,
+  "Date": "2020-01-28",
+  "ProductCategory": "95"
+},
+{
+  "DailySales": 2755,
+  "Date": "2020-01-28",
+  "ProductCategory": "96"
+},
+{
+  "DailySales": 155,
+  "Date": "2020-01-28",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 1150,
+  "Date": "2020-01-28",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 365,
+  "Date": "2020-01-29",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 552,
+  "Date": "2020-01-29",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 260,
+  "Date": "2020-01-29",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-29",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 822,
+  "Date": "2020-01-29",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 5455,
+  "Date": "2020-01-29",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 15710,
+  "Date": "2020-01-29",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-29",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 885,
+  "Date": "2020-01-29",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 8925,
+  "Date": "2020-01-29",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 3425,
+  "Date": "2020-01-29",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 689,
+  "Date": "2020-01-29",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-29",
+  "ProductCategory": "97"
+},
+{
+  "DailySales": 365,
+  "Date": "2020-01-30",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 1110,
+  "Date": "2020-01-30",
+  "ProductCategory": "10"
+},
+{
+  "DailySales": 170,
+  "Date": "2020-01-30",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 1575,
+  "Date": "2020-01-30",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 1365,
+  "Date": "2020-01-30",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 80,
+  "Date": "2020-01-30",
+  "ProductCategory": "15"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-30",
+  "ProductCategory": "16"
+},
+{
+  "DailySales": 1935,
+  "Date": "2020-01-30",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-30",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 653,
+  "Date": "2020-01-30",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 19360,
+  "Date": "2020-01-30",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 42170,
+  "Date": "2020-01-30",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 1685,
+  "Date": "2020-01-30",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 8800,
+  "Date": "2020-01-30",
+  "ProductCategory": "33"
+},
+{
+  "DailySales": 1654,
+  "Date": "2020-01-30",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 1035,
+  "Date": "2020-01-30",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 205,
+  "Date": "2020-01-30",
+  "ProductCategory": "43"
+},
+{
+  "DailySales": 1495,
+  "Date": "2020-01-30",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-30",
+  "ProductCategory": "51"
+},
+{
+  "DailySales": 9015,
+  "Date": "2020-01-30",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 19255,
+  "Date": "2020-01-30",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 105,
+  "Date": "2020-01-30",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 105,
+  "Date": "2020-01-30",
+  "ProductCategory": "95"
+},
+{
+  "DailySales": 1250,
+  "Date": "2020-01-30",
+  "ProductCategory": "96"
+},
+{
+  "DailySales": 885,
+  "Date": "2020-01-30",
+  "ProductCategory": "98"
+},
+{
+  "DailySales": 395,
+  "Date": "2020-01-30",
+  "ProductCategory": "99"
+},
+{
+  "DailySales": 1325,
+  "Date": "2020-01-31",
+  "ProductCategory": "1"
+},
+{
+  "DailySales": 493,
+  "Date": "2020-01-31",
+  "ProductCategory": "11"
+},
+{
+  "DailySales": 1030,
+  "Date": "2020-01-31",
+  "ProductCategory": "13"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-31",
+  "ProductCategory": "14"
+},
+{
+  "DailySales": 461,
+  "Date": "2020-01-31",
+  "ProductCategory": "19"
+},
+{
+  "DailySales": 1845,
+  "Date": "2020-01-31",
+  "ProductCategory": "2"
+},
+{
+  "DailySales": 250,
+  "Date": "2020-01-31",
+  "ProductCategory": "23"
+},
+{
+  "DailySales": 390,
+  "Date": "2020-01-31",
+  "ProductCategory": "24"
+},
+{
+  "DailySales": 631,
+  "Date": "2020-01-31",
+  "ProductCategory": "25"
+},
+{
+  "DailySales": 4665,
+  "Date": "2020-01-31",
+  "ProductCategory": "26"
+},
+{
+  "DailySales": 7540,
+  "Date": "2020-01-31",
+  "ProductCategory": "27"
+},
+{
+  "DailySales": 1130,
+  "Date": "2020-01-31",
+  "ProductCategory": "29"
+},
+{
+  "DailySales": 410,
+  "Date": "2020-01-31",
+  "ProductCategory": "32"
+},
+{
+  "DailySales": 2630,
+  "Date": "2020-01-31",
+  "ProductCategory": "36"
+},
+{
+  "DailySales": 6572,
+  "Date": "2020-01-31",
+  "ProductCategory": "38"
+},
+{
+  "DailySales": 1014,
+  "Date": "2020-01-31",
+  "ProductCategory": "40"
+},
+{
+  "DailySales": 105,
+  "Date": "2020-01-31",
+  "ProductCategory": "43"
+},
+{
+  "DailySales": 695,
+  "Date": "2020-01-31",
+  "ProductCategory": "45"
+},
+{
+  "DailySales": 450,
+  "Date": "2020-01-31",
+  "ProductCategory": "49"
+},
+{
+  "DailySales": 7140,
+  "Date": "2020-01-31",
+  "ProductCategory": "53"
+},
+{
+  "DailySales": 1280,
+  "Date": "2020-01-31",
+  "ProductCategory": "54"
+},
+{
+  "DailySales": 545,
+  "Date": "2020-01-31",
+  "ProductCategory": "6"
+},
+{
+  "DailySales": 650,
+  "Date": "2020-01-31",
+  "ProductCategory": "8"
+}]
