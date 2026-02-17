@@ -1,0 +1,112 @@
+[{
+  "TotalPurchaseCost": 36215.85,
+  "QuantityPurchased": 125,
+  "SupplierCode": "005",
+  "Year": 2018,
+  "AvgCostPerUnit": 289.72679999999997,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 1506556.45,
+  "QuantityPurchased": 8862,
+  "SupplierCode": "006",
+  "Year": 2018,
+  "AvgCostPerUnit": 170.0018562401264,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 335797.22,
+  "QuantityPurchased": 1966,
+  "SupplierCode": "007",
+  "Year": 2018,
+  "AvgCostPerUnit": 170.8022482197355,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 832496.69,
+  "QuantityPurchased": 4642,
+  "SupplierCode": "008",
+  "Year": 2018,
+  "AvgCostPerUnit": 179.34008832399826,
+  "AvgDaysBetweenPurchases": 0.03597122302158273
+},
+{
+  "TotalPurchaseCost": 1795408.35,
+  "QuantityPurchased": 7926,
+  "SupplierCode": "009",
+  "Year": 2018,
+  "AvgCostPerUnit": 226.52136638909917,
+  "AvgDaysBetweenPurchases": 0.06430155210643015
+},
+{
+  "TotalPurchaseCost": 852563,
+  "QuantityPurchased": 4995,
+  "SupplierCode": "010",
+  "Year": 2018,
+  "AvgCostPerUnit": 170.6832832832833,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 976940.77,
+  "QuantityPurchased": 4543,
+  "SupplierCode": "011",
+  "Year": 2018,
+  "AvgCostPerUnit": 215.04309267004183,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 104989.33,
+  "QuantityPurchased": 403,
+  "SupplierCode": "012",
+  "Year": 2018,
+  "AvgCostPerUnit": 260.51942928039705,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 38145.76,
+  "QuantityPurchased": 13,
+  "SupplierCode": "ADAG01",
+  "Year": 2018,
+  "AvgCostPerUnit": 2934.289230769231,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 7500,
+  "QuantityPurchased": 250,
+  "SupplierCode": "PG001",
+  "Year": 2018,
+  "AvgCostPerUnit": 30,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 420059.1,
+  "QuantityPurchased": 1688,
+  "SupplierCode": "006",
+  "Year": 2019,
+  "AvgCostPerUnit": 248.85017772511847,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 957634.21,
+  "QuantityPurchased": 5287,
+  "SupplierCode": "007",
+  "Year": 2019,
+  "AvgCostPerUnit": 181.12998108568186,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 1880633.73,
+  "QuantityPurchased": 11708,
+  "SupplierCode": "011",
+  "Year": 2019,
+  "AvgCostPerUnit": 160.62809446532285,
+  "AvgDaysBetweenPurchases": 0
+},
+{
+  "TotalPurchaseCost": 1219718.96,
+  "QuantityPurchased": 4383,
+  "SupplierCode": "014",
+  "Year": 2019,
+  "AvgCostPerUnit": 278.28404289299567,
+  "AvgDaysBetweenPurchases": 0
+}]
