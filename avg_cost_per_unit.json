@@ -1,0 +1,54 @@
+[{
+  "TotalCost": 1295504.43,
+  "TotalQuantity": 7253,
+  "FinancialMonth": "April",
+  "AvgCostPerUnit": 178.61635599062456
+},
+{
+  "TotalCost": 1282696.1,
+  "TotalQuantity": 6933,
+  "FinancialMonth": "August",
+  "AvgCostPerUnit": 185.01314005481035
+},
+{
+  "TotalCost": 36215.85,
+  "TotalQuantity": 125,
+  "FinancialMonth": "December",
+  "AvgCostPerUnit": 289.72679999999997
+},
+{
+  "TotalCost": 1218557.51,
+  "TotalQuantity": 4383,
+  "FinancialMonth": "February",
+  "AvgCostPerUnit": 278.0190531599361
+},
+{
+  "TotalCost": 104989.33,
+  "TotalQuantity": 403,
+  "FinancialMonth": "January",
+  "AvgCostPerUnit": 260.51942928039705
+},
+{
+  "TotalCost": 1827849.07,
+  "TotalQuantity": 7939,
+  "FinancialMonth": "July",
+  "AvgCostPerUnit": 230.23668849981107
+},
+{
+  "TotalCost": 1501593.13,
+  "TotalQuantity": 8862,
+  "FinancialMonth": "March",
+  "AvgCostPerUnit": 169.44178853531932
+},
+{
+  "TotalCost": 832195.66,
+  "TotalQuantity": 4642,
+  "FinancialMonth": "May",
+  "AvgCostPerUnit": 179.27523912106852
+},
+{
+  "TotalCost": 2854544.41,
+  "TotalQuantity": 16251,
+  "FinancialMonth": "November",
+  "AvgCostPerUnit": 175.65346194080365
+}]
