@@ -1,0 +1,1105 @@
+[{
+  "PaymentCount": 1,
+  "TotalBankAmount": -240,
+  "DepositDate": "2018-12-06"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2018-12-07"
+},
+{
+  "PaymentCount": 21,
+  "TotalBankAmount": -66609,
+  "DepositDate": "2018-12-10"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-05-02"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-05-06"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": -2800,
+  "DepositDate": "2019-05-09"
+},
+{
+  "PaymentCount": 19,
+  "TotalBankAmount": -10903,
+  "DepositDate": "2019-05-13"
+},
+{
+  "PaymentCount": 29,
+  "TotalBankAmount": -11670,
+  "DepositDate": "2019-05-14"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -6000,
+  "DepositDate": "2019-05-15"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-05-16"
+},
+{
+  "PaymentCount": 23,
+  "TotalBankAmount": -5500,
+  "DepositDate": "2019-05-17"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-05-18"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -9370,
+  "DepositDate": "2019-05-20"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -4197,
+  "DepositDate": "2019-05-21"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-05-22"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -4526,
+  "DepositDate": "2019-05-23"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -4013,
+  "DepositDate": "2019-05-24"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-05-25"
+},
+{
+  "PaymentCount": 21,
+  "TotalBankAmount": -15450,
+  "DepositDate": "2019-05-27"
+},
+{
+  "PaymentCount": 12,
+  "TotalBankAmount": -392,
+  "DepositDate": "2019-05-28"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -400,
+  "DepositDate": "2019-05-29"
+},
+{
+  "PaymentCount": 34,
+  "TotalBankAmount": -12256,
+  "DepositDate": "2019-05-30"
+},
+{
+  "PaymentCount": 24,
+  "TotalBankAmount": -30880,
+  "DepositDate": "2019-05-31"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -1096,
+  "DepositDate": "2019-06-01"
+},
+{
+  "PaymentCount": 21,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-06-03"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -20461,
+  "DepositDate": "2019-06-04"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": -15500,
+  "DepositDate": "2019-06-05"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -3083,
+  "DepositDate": "2019-06-06"
+},
+{
+  "PaymentCount": 18,
+  "TotalBankAmount": -49964,
+  "DepositDate": "2019-06-07"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-06-08"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -11890,
+  "DepositDate": "2019-06-10"
+},
+{
+  "PaymentCount": 31,
+  "TotalBankAmount": -1132,
+  "DepositDate": "2019-06-11"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-06-12"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -13892,
+  "DepositDate": "2019-06-13"
+},
+{
+  "PaymentCount": 4,
+  "TotalBankAmount": -25375,
+  "DepositDate": "2019-06-14"
+},
+{
+  "PaymentCount": 4,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-06-15"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": -700,
+  "DepositDate": "2019-06-18"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -23608,
+  "DepositDate": "2019-06-19"
+},
+{
+  "PaymentCount": 12,
+  "TotalBankAmount": -3420,
+  "DepositDate": "2019-06-20"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -12870,
+  "DepositDate": "2019-06-21"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-06-22"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -2098,
+  "DepositDate": "2019-06-24"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -7572,
+  "DepositDate": "2019-06-25"
+},
+{
+  "PaymentCount": 18,
+  "TotalBankAmount": -6500,
+  "DepositDate": "2019-06-26"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -4800,
+  "DepositDate": "2019-06-27"
+},
+{
+  "PaymentCount": 26,
+  "TotalBankAmount": -36000,
+  "DepositDate": "2019-06-28"
+},
+{
+  "PaymentCount": 20,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-06-29"
+},
+{
+  "PaymentCount": 4,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-06-30"
+},
+{
+  "PaymentCount": 24,
+  "TotalBankAmount": -17030,
+  "DepositDate": "2019-07-01"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -49210,
+  "DepositDate": "2019-07-02"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -10000,
+  "DepositDate": "2019-07-03"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -6173,
+  "DepositDate": "2019-07-04"
+},
+{
+  "PaymentCount": 18,
+  "TotalBankAmount": -16400,
+  "DepositDate": "2019-07-05"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-07-06"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": -19535,
+  "DepositDate": "2019-07-08"
+},
+{
+  "PaymentCount": 5,
+  "TotalBankAmount": -6368,
+  "DepositDate": "2019-07-09"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -32363,
+  "DepositDate": "2019-07-10"
+},
+{
+  "PaymentCount": 37,
+  "TotalBankAmount": -13707,
+  "DepositDate": "2019-07-11"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -27100,
+  "DepositDate": "2019-07-12"
+},
+{
+  "PaymentCount": 5,
+  "TotalBankAmount": -22576,
+  "DepositDate": "2019-07-13"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -10000,
+  "DepositDate": "2019-07-15"
+},
+{
+  "PaymentCount": 21,
+  "TotalBankAmount": -13092,
+  "DepositDate": "2019-07-16"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -30525,
+  "DepositDate": "2019-07-17"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -14124,
+  "DepositDate": "2019-07-18"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -7542,
+  "DepositDate": "2019-07-19"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": -17385,
+  "DepositDate": "2019-07-20"
+},
+{
+  "PaymentCount": 27,
+  "TotalBankAmount": -83740,
+  "DepositDate": "2019-07-22"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -4731,
+  "DepositDate": "2019-07-23"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -75973,
+  "DepositDate": "2019-07-24"
+},
+{
+  "PaymentCount": 18,
+  "TotalBankAmount": -24000,
+  "DepositDate": "2019-07-25"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -45930,
+  "DepositDate": "2019-07-26"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": -2000,
+  "DepositDate": "2019-07-27"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -1083,
+  "DepositDate": "2019-07-29"
+},
+{
+  "PaymentCount": 21,
+  "TotalBankAmount": -19358,
+  "DepositDate": "2019-07-30"
+},
+{
+  "PaymentCount": 21,
+  "TotalBankAmount": -7382,
+  "DepositDate": "2019-07-31"
+},
+{
+  "PaymentCount": 18,
+  "TotalBankAmount": -1900,
+  "DepositDate": "2019-08-01"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": -3000,
+  "DepositDate": "2019-08-02"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": -1500,
+  "DepositDate": "2019-08-03"
+},
+{
+  "PaymentCount": 19,
+  "TotalBankAmount": -77989,
+  "DepositDate": "2019-08-05"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-08-06"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -3300,
+  "DepositDate": "2019-08-07"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -1197,
+  "DepositDate": "2019-08-08"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-08-10"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -2627,
+  "DepositDate": "2019-08-12"
+},
+{
+  "PaymentCount": 30,
+  "TotalBankAmount": -7000,
+  "DepositDate": "2019-08-13"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -14395,
+  "DepositDate": "2019-08-14"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": -8000,
+  "DepositDate": "2019-08-15"
+},
+{
+  "PaymentCount": 5,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-08-16"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-08-19"
+},
+{
+  "PaymentCount": 20,
+  "TotalBankAmount": -17674,
+  "DepositDate": "2019-08-21"
+},
+{
+  "PaymentCount": 16,
+  "TotalBankAmount": -14500,
+  "DepositDate": "2019-08-22"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -5285,
+  "DepositDate": "2019-08-23"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-08-24"
+},
+{
+  "PaymentCount": 26,
+  "TotalBankAmount": -63987,
+  "DepositDate": "2019-08-26"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -4837,
+  "DepositDate": "2019-08-27"
+},
+{
+  "PaymentCount": 24,
+  "TotalBankAmount": -51777,
+  "DepositDate": "2019-08-28"
+},
+{
+  "PaymentCount": 4,
+  "TotalBankAmount": -115,
+  "DepositDate": "2019-08-29"
+},
+{
+  "PaymentCount": 22,
+  "TotalBankAmount": -15000,
+  "DepositDate": "2019-08-30"
+},
+{
+  "PaymentCount": 5,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-08-31"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -7095,
+  "DepositDate": "2019-09-02"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -8938,
+  "DepositDate": "2019-09-03"
+},
+{
+  "PaymentCount": 12,
+  "TotalBankAmount": -13100,
+  "DepositDate": "2019-09-04"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -8900,
+  "DepositDate": "2019-09-05"
+},
+{
+  "PaymentCount": 19,
+  "TotalBankAmount": -19500,
+  "DepositDate": "2019-09-06"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": -1000,
+  "DepositDate": "2019-09-07"
+},
+{
+  "PaymentCount": 4,
+  "TotalBankAmount": -19494,
+  "DepositDate": "2019-09-09"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -10715,
+  "DepositDate": "2019-09-10"
+},
+{
+  "PaymentCount": 24,
+  "TotalBankAmount": -8460,
+  "DepositDate": "2019-09-11"
+},
+{
+  "PaymentCount": 16,
+  "TotalBankAmount": -690,
+  "DepositDate": "2019-09-12"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-09-13"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": -540,
+  "DepositDate": "2019-09-14"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -16381,
+  "DepositDate": "2019-09-16"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -5700,
+  "DepositDate": "2019-09-17"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-09-18"
+},
+{
+  "PaymentCount": 4,
+  "TotalBankAmount": -4100,
+  "DepositDate": "2019-09-19"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -15474,
+  "DepositDate": "2019-09-20"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": -3000,
+  "DepositDate": "2019-09-21"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -8534,
+  "DepositDate": "2019-09-23"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-09-25"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -2125,
+  "DepositDate": "2019-09-26"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -2000,
+  "DepositDate": "2019-09-27"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": -3870,
+  "DepositDate": "2019-09-28"
+},
+{
+  "PaymentCount": 27,
+  "TotalBankAmount": -94133,
+  "DepositDate": "2019-09-30"
+},
+{
+  "PaymentCount": 27,
+  "TotalBankAmount": -1000,
+  "DepositDate": "2019-10-01"
+},
+{
+  "PaymentCount": 18,
+  "TotalBankAmount": -7306,
+  "DepositDate": "2019-10-02"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -3650,
+  "DepositDate": "2019-10-03"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -2000,
+  "DepositDate": "2019-10-04"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -1236,
+  "DepositDate": "2019-10-07"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -1200,
+  "DepositDate": "2019-10-08"
+},
+{
+  "PaymentCount": 16,
+  "TotalBankAmount": -20045,
+  "DepositDate": "2019-10-09"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -17927,
+  "DepositDate": "2019-10-10"
+},
+{
+  "PaymentCount": 26,
+  "TotalBankAmount": -1000,
+  "DepositDate": "2019-10-11"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -12088,
+  "DepositDate": "2019-10-14"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -2500,
+  "DepositDate": "2019-10-15"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -5000,
+  "DepositDate": "2019-10-16"
+},
+{
+  "PaymentCount": 4,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-10-17"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -3135,
+  "DepositDate": "2019-10-18"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": -15000,
+  "DepositDate": "2019-10-19"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -9081,
+  "DepositDate": "2019-10-21"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -6050,
+  "DepositDate": "2019-10-22"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -28845,
+  "DepositDate": "2019-10-23"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -12157,
+  "DepositDate": "2019-10-24"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -5000,
+  "DepositDate": "2019-10-25"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-10-26"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -8227,
+  "DepositDate": "2019-10-28"
+},
+{
+  "PaymentCount": 12,
+  "TotalBankAmount": -1860,
+  "DepositDate": "2019-10-29"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -3680,
+  "DepositDate": "2019-10-30"
+},
+{
+  "PaymentCount": 23,
+  "TotalBankAmount": -1864,
+  "DepositDate": "2019-10-31"
+},
+{
+  "PaymentCount": 26,
+  "TotalBankAmount": -5100,
+  "DepositDate": "2019-11-01"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-11-02"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -7500,
+  "DepositDate": "2019-11-04"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -6369,
+  "DepositDate": "2019-11-05"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -3000,
+  "DepositDate": "2019-11-06"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -4000,
+  "DepositDate": "2019-11-07"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": -1500,
+  "DepositDate": "2019-11-08"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-11-09"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -2131,
+  "DepositDate": "2019-11-11"
+},
+{
+  "PaymentCount": 25,
+  "TotalBankAmount": -6666,
+  "DepositDate": "2019-11-12"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -5000,
+  "DepositDate": "2019-11-13"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": -5144,
+  "DepositDate": "2019-11-14"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -12790,
+  "DepositDate": "2019-11-15"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": -5000,
+  "DepositDate": "2019-11-16"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": -685,
+  "DepositDate": "2019-11-18"
+},
+{
+  "PaymentCount": 12,
+  "TotalBankAmount": -2500,
+  "DepositDate": "2019-11-19"
+},
+{
+  "PaymentCount": 18,
+  "TotalBankAmount": -8390,
+  "DepositDate": "2019-11-20"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -12314,
+  "DepositDate": "2019-11-21"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -14406,
+  "DepositDate": "2019-11-22"
+},
+{
+  "PaymentCount": 21,
+  "TotalBankAmount": -9660,
+  "DepositDate": "2019-11-25"
+},
+{
+  "PaymentCount": 18,
+  "TotalBankAmount": -399,
+  "DepositDate": "2019-11-26"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -3000,
+  "DepositDate": "2019-11-27"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -1720,
+  "DepositDate": "2019-11-28"
+},
+{
+  "PaymentCount": 26,
+  "TotalBankAmount": -5266,
+  "DepositDate": "2019-11-29"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-11-30"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -11778,
+  "DepositDate": "2019-12-02"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -1500,
+  "DepositDate": "2019-12-03"
+},
+{
+  "PaymentCount": 16,
+  "TotalBankAmount": -3640,
+  "DepositDate": "2019-12-04"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -5000,
+  "DepositDate": "2019-12-05"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": -472,
+  "DepositDate": "2019-12-06"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": -6000,
+  "DepositDate": "2019-12-07"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -2904,
+  "DepositDate": "2019-12-09"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -12200,
+  "DepositDate": "2019-12-10"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -1769,
+  "DepositDate": "2019-12-11"
+},
+{
+  "PaymentCount": 11,
+  "TotalBankAmount": -6328,
+  "DepositDate": "2019-12-12"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -5700,
+  "DepositDate": "2019-12-13"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": -230,
+  "DepositDate": "2019-12-14"
+},
+{
+  "PaymentCount": 12,
+  "TotalBankAmount": -4800,
+  "DepositDate": "2019-12-17"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -9243,
+  "DepositDate": "2019-12-18"
+},
+{
+  "PaymentCount": 43,
+  "TotalBankAmount": -5000,
+  "DepositDate": "2019-12-19"
+},
+{
+  "PaymentCount": 16,
+  "TotalBankAmount": -5081,
+  "DepositDate": "2019-12-20"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -980,
+  "DepositDate": "2019-12-21"
+},
+{
+  "PaymentCount": 3,
+  "TotalBankAmount": -371,
+  "DepositDate": "2019-12-23"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-12-24"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2019-12-27"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -13,
+  "DepositDate": "2019-12-30"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -3000,
+  "DepositDate": "2019-12-31"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": 0,
+  "DepositDate": "2020-01-02"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": 0,
+  "DepositDate": "2020-01-03"
+},
+{
+  "PaymentCount": 2,
+  "TotalBankAmount": 0,
+  "DepositDate": "2020-01-04"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -18358,
+  "DepositDate": "2020-01-06"
+},
+{
+  "PaymentCount": 17,
+  "TotalBankAmount": -1171,
+  "DepositDate": "2020-01-07"
+},
+{
+  "PaymentCount": 9,
+  "TotalBankAmount": -3469,
+  "DepositDate": "2020-01-08"
+},
+{
+  "PaymentCount": 8,
+  "TotalBankAmount": -6000,
+  "DepositDate": "2020-01-09"
+},
+{
+  "PaymentCount": 5,
+  "TotalBankAmount": -4784,
+  "DepositDate": "2020-01-10"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2020-01-11"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -1875,
+  "DepositDate": "2020-01-13"
+},
+{
+  "PaymentCount": 22,
+  "TotalBankAmount": -10775,
+  "DepositDate": "2020-01-14"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -4660,
+  "DepositDate": "2020-01-15"
+},
+{
+  "PaymentCount": 6,
+  "TotalBankAmount": -5000,
+  "DepositDate": "2020-01-16"
+},
+{
+  "PaymentCount": 7,
+  "TotalBankAmount": -1200,
+  "DepositDate": "2020-01-17"
+},
+{
+  "PaymentCount": 1,
+  "TotalBankAmount": 0,
+  "DepositDate": "2020-01-18"
+},
+{
+  "PaymentCount": 21,
+  "TotalBankAmount": -4300,
+  "DepositDate": "2020-01-20"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -24600,
+  "DepositDate": "2020-01-21"
+},
+{
+  "PaymentCount": 10,
+  "TotalBankAmount": -3570,
+  "DepositDate": "2020-01-22"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -11000,
+  "DepositDate": "2020-01-23"
+},
+{
+  "PaymentCount": 15,
+  "TotalBankAmount": -19575,
+  "DepositDate": "2020-01-24"
+},
+{
+  "PaymentCount": 5,
+  "TotalBankAmount": 0,
+  "DepositDate": "2020-01-25"
+},
+{
+  "PaymentCount": 14,
+  "TotalBankAmount": -15641,
+  "DepositDate": "2020-01-27"
+},
+{
+  "PaymentCount": 13,
+  "TotalBankAmount": -7395,
+  "DepositDate": "2020-01-28"
+},
+{
+  "PaymentCount": 19,
+  "TotalBankAmount": -3254,
+  "DepositDate": "2020-01-29"
+},
+{
+  "PaymentCount": 27,
+  "TotalBankAmount": -12964,
+  "DepositDate": "2020-01-30"
+},
+{
+  "PaymentCount": 26,
+  "TotalBankAmount": -2000,
+  "DepositDate": "2020-01-31"
+}]
