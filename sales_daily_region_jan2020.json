@@ -1,0 +1,1515 @@
+[{
+  "DailySales": 5830,
+  "Date": "2020-01-01",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 2125,
+  "Date": "2020-01-01",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 45172,
+  "Date": "2020-01-06",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 665,
+  "Date": "2020-01-06",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 10270,
+  "Date": "2020-01-06",
+  "RegionCode": "3a"
+},
+{
+  "DailySales": 6596,
+  "Date": "2020-01-06",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 4308,
+  "Date": "2020-01-07",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 152,
+  "Date": "2020-01-07",
+  "RegionCode": "11b"
+},
+{
+  "DailySales": 1090,
+  "Date": "2020-01-07",
+  "RegionCode": "1c"
+},
+{
+  "DailySales": 93,
+  "Date": "2020-01-07",
+  "RegionCode": "1d"
+},
+{
+  "DailySales": 14280,
+  "Date": "2020-01-07",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 4760,
+  "Date": "2020-01-07",
+  "RegionCode": "21b"
+},
+{
+  "DailySales": 2685,
+  "Date": "2020-01-07",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 534,
+  "Date": "2020-01-07",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 104,
+  "Date": "2020-01-07",
+  "RegionCode": "3a"
+},
+{
+  "DailySales": 1040,
+  "Date": "2020-01-07",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 1052,
+  "Date": "2020-01-07",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 390,
+  "Date": "2020-01-07",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 815,
+  "Date": "2020-01-07",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 186,
+  "Date": "2020-01-07",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 573,
+  "Date": "2020-01-07",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 8539,
+  "Date": "2020-01-07",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 9015,
+  "Date": "2020-01-08",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-08",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-08",
+  "RegionCode": "11b"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-08",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 63,
+  "Date": "2020-01-08",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 2865,
+  "Date": "2020-01-08",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 85,
+  "Date": "2020-01-08",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-08",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 9320,
+  "Date": "2020-01-08",
+  "RegionCode": "3a"
+},
+{
+  "DailySales": 243,
+  "Date": "2020-01-08",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 764,
+  "Date": "2020-01-08",
+  "RegionCode": "4a"
+},
+{
+  "DailySales": 80,
+  "Date": "2020-01-08",
+  "RegionCode": "5a"
+},
+{
+  "DailySales": 124,
+  "Date": "2020-01-08",
+  "RegionCode": "5b"
+},
+{
+  "DailySales": 1127,
+  "Date": "2020-01-08",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 1572,
+  "Date": "2020-01-08",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-08",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 1475,
+  "Date": "2020-01-08",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-08",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 1785,
+  "Date": "2020-01-08",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 1759,
+  "Date": "2020-01-08",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 7310,
+  "Date": "2020-01-09",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 118,
+  "Date": "2020-01-09",
+  "RegionCode": "11b"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-09",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 205,
+  "Date": "2020-01-09",
+  "RegionCode": "1a"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-09",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 53342,
+  "Date": "2020-01-09",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 48260,
+  "Date": "2020-01-09",
+  "RegionCode": "21b"
+},
+{
+  "DailySales": 1905,
+  "Date": "2020-01-09",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 603,
+  "Date": "2020-01-09",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-09",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 491,
+  "Date": "2020-01-09",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 108,
+  "Date": "2020-01-09",
+  "RegionCode": "4a"
+},
+{
+  "DailySales": 124,
+  "Date": "2020-01-09",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 1888,
+  "Date": "2020-01-09",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 595,
+  "Date": "2020-01-09",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 5350,
+  "Date": "2020-01-09",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 5332,
+  "Date": "2020-01-09",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-09",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 1418,
+  "Date": "2020-01-10",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-10",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 1015,
+  "Date": "2020-01-10",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-10",
+  "RegionCode": "1d"
+},
+{
+  "DailySales": 14195,
+  "Date": "2020-01-10",
+  "RegionCode": "21b"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-10",
+  "RegionCode": "21c"
+},
+{
+  "DailySales": 995,
+  "Date": "2020-01-10",
+  "RegionCode": "25b"
+},
+{
+  "DailySales": 2280,
+  "Date": "2020-01-10",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 345,
+  "Date": "2020-01-10",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 162,
+  "Date": "2020-01-10",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 8972,
+  "Date": "2020-01-10",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-10",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 4107,
+  "Date": "2020-01-10",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 2975,
+  "Date": "2020-01-10",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 690,
+  "Date": "2020-01-13",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 4030,
+  "Date": "2020-01-13",
+  "RegionCode": "1a"
+},
+{
+  "DailySales": 4430,
+  "Date": "2020-01-13",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 6944,
+  "Date": "2020-01-13",
+  "RegionCode": "1c"
+},
+{
+  "DailySales": 7230,
+  "Date": "2020-01-13",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 24230,
+  "Date": "2020-01-13",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 1225,
+  "Date": "2020-01-13",
+  "RegionCode": "5a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-13",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 425,
+  "Date": "2020-01-13",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 455,
+  "Date": "2020-01-13",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 10681,
+  "Date": "2020-01-13",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 8963,
+  "Date": "2020-01-14",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-14",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-14",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 1290,
+  "Date": "2020-01-14",
+  "RegionCode": "1a"
+},
+{
+  "DailySales": 9921,
+  "Date": "2020-01-14",
+  "RegionCode": "1c"
+},
+{
+  "DailySales": 6550,
+  "Date": "2020-01-14",
+  "RegionCode": "1d"
+},
+{
+  "DailySales": 13775,
+  "Date": "2020-01-14",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 434,
+  "Date": "2020-01-14",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 2706,
+  "Date": "2020-01-14",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 19024,
+  "Date": "2020-01-14",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 8195,
+  "Date": "2020-01-14",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 2415,
+  "Date": "2020-01-14",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 8817,
+  "Date": "2020-01-14",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 1149,
+  "Date": "2020-01-14",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-14",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 1046,
+  "Date": "2020-01-15",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 10979,
+  "Date": "2020-01-15",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 117,
+  "Date": "2020-01-15",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-15",
+  "RegionCode": "1a"
+},
+{
+  "DailySales": 150,
+  "Date": "2020-01-15",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-15",
+  "RegionCode": "1e"
+},
+{
+  "DailySales": 9933,
+  "Date": "2020-01-15",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 890,
+  "Date": "2020-01-15",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 247,
+  "Date": "2020-01-15",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 286,
+  "Date": "2020-01-15",
+  "RegionCode": "4a"
+},
+{
+  "DailySales": 7896,
+  "Date": "2020-01-15",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 8474,
+  "Date": "2020-01-15",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 385,
+  "Date": "2020-01-15",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 69,
+  "Date": "2020-01-15",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 50,
+  "Date": "2020-01-15",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 803,
+  "Date": "2020-01-15",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 645,
+  "Date": "2020-01-15",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 1388,
+  "Date": "2020-01-16",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 5294,
+  "Date": "2020-01-16",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 150,
+  "Date": "2020-01-16",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 4555,
+  "Date": "2020-01-16",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 1833,
+  "Date": "2020-01-16",
+  "RegionCode": "1d"
+},
+{
+  "DailySales": 3064,
+  "Date": "2020-01-16",
+  "RegionCode": "1e"
+},
+{
+  "DailySales": 9725,
+  "Date": "2020-01-16",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 4527,
+  "Date": "2020-01-16",
+  "RegionCode": "21a"
+},
+{
+  "DailySales": 8098,
+  "Date": "2020-01-16",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 2470,
+  "Date": "2020-01-16",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 300,
+  "Date": "2020-01-16",
+  "RegionCode": "5a"
+},
+{
+  "DailySales": 6549,
+  "Date": "2020-01-16",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-16",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 130,
+  "Date": "2020-01-16",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 365,
+  "Date": "2020-01-16",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 2112,
+  "Date": "2020-01-17",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 373,
+  "Date": "2020-01-17",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 604,
+  "Date": "2020-01-17",
+  "RegionCode": "11b"
+},
+{
+  "DailySales": 342,
+  "Date": "2020-01-17",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 345,
+  "Date": "2020-01-17",
+  "RegionCode": "1d"
+},
+{
+  "DailySales": 25650,
+  "Date": "2020-01-17",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 1150,
+  "Date": "2020-01-17",
+  "RegionCode": "21a"
+},
+{
+  "DailySales": 4257,
+  "Date": "2020-01-17",
+  "RegionCode": "25a"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-17",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 12655,
+  "Date": "2020-01-17",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-17",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 3847,
+  "Date": "2020-01-17",
+  "RegionCode": "4b"
+},
+{
+  "DailySales": 6214,
+  "Date": "2020-01-17",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-17",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-17",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 345,
+  "Date": "2020-01-17",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 660,
+  "Date": "2020-01-17",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 1998,
+  "Date": "2020-01-20",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 4487,
+  "Date": "2020-01-20",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 39,
+  "Date": "2020-01-20",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 4690,
+  "Date": "2020-01-20",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 20217,
+  "Date": "2020-01-20",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 5405,
+  "Date": "2020-01-20",
+  "RegionCode": "3a"
+},
+{
+  "DailySales": 795,
+  "Date": "2020-01-20",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 124,
+  "Date": "2020-01-20",
+  "RegionCode": "4a"
+},
+{
+  "DailySales": 534,
+  "Date": "2020-01-20",
+  "RegionCode": "4b"
+},
+{
+  "DailySales": 16075,
+  "Date": "2020-01-20",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 927,
+  "Date": "2020-01-20",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 88,
+  "Date": "2020-01-20",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-20",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-20",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 4290,
+  "Date": "2020-01-20",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-20",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 4799,
+  "Date": "2020-01-21",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 78,
+  "Date": "2020-01-21",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 555,
+  "Date": "2020-01-21",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-21",
+  "RegionCode": "1c"
+},
+{
+  "DailySales": 295,
+  "Date": "2020-01-21",
+  "RegionCode": "1d"
+},
+{
+  "DailySales": 34300,
+  "Date": "2020-01-21",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 1080,
+  "Date": "2020-01-21",
+  "RegionCode": "21a"
+},
+{
+  "DailySales": 209,
+  "Date": "2020-01-21",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 132,
+  "Date": "2020-01-21",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-21",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 132,
+  "Date": "2020-01-21",
+  "RegionCode": "4b"
+},
+{
+  "DailySales": 158,
+  "Date": "2020-01-21",
+  "RegionCode": "5a"
+},
+{
+  "DailySales": 293,
+  "Date": "2020-01-21",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 2119,
+  "Date": "2020-01-21",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 6970,
+  "Date": "2020-01-21",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 605,
+  "Date": "2020-01-21",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 795,
+  "Date": "2020-01-21",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 2373,
+  "Date": "2020-01-21",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 1180,
+  "Date": "2020-01-22",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 604,
+  "Date": "2020-01-22",
+  "RegionCode": "11b"
+},
+{
+  "DailySales": 346,
+  "Date": "2020-01-22",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 113,
+  "Date": "2020-01-22",
+  "RegionCode": "1a"
+},
+{
+  "DailySales": 990,
+  "Date": "2020-01-22",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-22",
+  "RegionCode": "1c"
+},
+{
+  "DailySales": 34700,
+  "Date": "2020-01-22",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 8520,
+  "Date": "2020-01-22",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 9801,
+  "Date": "2020-01-22",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 1202,
+  "Date": "2020-01-22",
+  "RegionCode": "3a"
+},
+{
+  "DailySales": 147,
+  "Date": "2020-01-22",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 2267,
+  "Date": "2020-01-22",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 950,
+  "Date": "2020-01-22",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 4170,
+  "Date": "2020-01-22",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-22",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 995,
+  "Date": "2020-01-22",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 11432,
+  "Date": "2020-01-22",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 7995,
+  "Date": "2020-01-23",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 864,
+  "Date": "2020-01-23",
+  "RegionCode": "10b"
+},
+{
+  "DailySales": 470,
+  "Date": "2020-01-23",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 165,
+  "Date": "2020-01-23",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 12040,
+  "Date": "2020-01-23",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 630,
+  "Date": "2020-01-23",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 3350,
+  "Date": "2020-01-23",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 14427,
+  "Date": "2020-01-23",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 725,
+  "Date": "2020-01-23",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 45,
+  "Date": "2020-01-23",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 788,
+  "Date": "2020-01-23",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-23",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 9815,
+  "Date": "2020-01-23",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 730,
+  "Date": "2020-01-23",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 10214,
+  "Date": "2020-01-24",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-24",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 24001,
+  "Date": "2020-01-24",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 495,
+  "Date": "2020-01-24",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 130,
+  "Date": "2020-01-24",
+  "RegionCode": "1d"
+},
+{
+  "DailySales": 980,
+  "Date": "2020-01-24",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 11600,
+  "Date": "2020-01-24",
+  "RegionCode": "21a"
+},
+{
+  "DailySales": 8,
+  "Date": "2020-01-24",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 93,
+  "Date": "2020-01-24",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 11322,
+  "Date": "2020-01-24",
+  "RegionCode": "3a"
+},
+{
+  "DailySales": 57,
+  "Date": "2020-01-24",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 159,
+  "Date": "2020-01-24",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 224,
+  "Date": "2020-01-24",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 772,
+  "Date": "2020-01-24",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 753,
+  "Date": "2020-01-24",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 443,
+  "Date": "2020-01-24",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 6808,
+  "Date": "2020-01-27",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 365,
+  "Date": "2020-01-27",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 59,
+  "Date": "2020-01-27",
+  "RegionCode": "4b"
+},
+{
+  "DailySales": 840,
+  "Date": "2020-01-27",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-27",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 450,
+  "Date": "2020-01-27",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 43325,
+  "Date": "2020-01-27",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 2624,
+  "Date": "2020-01-28",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 391,
+  "Date": "2020-01-28",
+  "RegionCode": "10b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-28",
+  "RegionCode": "11b"
+},
+{
+  "DailySales": 355,
+  "Date": "2020-01-28",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 770,
+  "Date": "2020-01-28",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 590,
+  "Date": "2020-01-28",
+  "RegionCode": "1e"
+},
+{
+  "DailySales": 16545,
+  "Date": "2020-01-28",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 130,
+  "Date": "2020-01-28",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 685,
+  "Date": "2020-01-28",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-28",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 8,
+  "Date": "2020-01-28",
+  "RegionCode": "3a"
+},
+{
+  "DailySales": 565,
+  "Date": "2020-01-28",
+  "RegionCode": "3b"
+},
+{
+  "DailySales": 26317,
+  "Date": "2020-01-28",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 723,
+  "Date": "2020-01-28",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 515,
+  "Date": "2020-01-28",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 95,
+  "Date": "2020-01-28",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 26964,
+  "Date": "2020-01-28",
+  "RegionCode": "9a"
+},
+{
+  "DailySales": 810,
+  "Date": "2020-01-29",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 114,
+  "Date": "2020-01-29",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 612,
+  "Date": "2020-01-29",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 167,
+  "Date": "2020-01-29",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-29",
+  "RegionCode": "1e"
+},
+{
+  "DailySales": 6903,
+  "Date": "2020-01-29",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 142,
+  "Date": "2020-01-29",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 835,
+  "Date": "2020-01-29",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 22707,
+  "Date": "2020-01-29",
+  "RegionCode": "4a"
+},
+{
+  "DailySales": 149,
+  "Date": "2020-01-29",
+  "RegionCode": "5a"
+},
+{
+  "DailySales": 1860,
+  "Date": "2020-01-29",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 630,
+  "Date": "2020-01-29",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 59,
+  "Date": "2020-01-29",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 2990,
+  "Date": "2020-01-29",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 1805,
+  "Date": "2020-01-30",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 2188,
+  "Date": "2020-01-30",
+  "RegionCode": "11a"
+},
+{
+  "DailySales": 3579,
+  "Date": "2020-01-30",
+  "RegionCode": "11b"
+},
+{
+  "DailySales": 1065,
+  "Date": "2020-01-30",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 708,
+  "Date": "2020-01-30",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-30",
+  "RegionCode": "1c"
+},
+{
+  "DailySales": 11765,
+  "Date": "2020-01-30",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 365,
+  "Date": "2020-01-30",
+  "RegionCode": "21c"
+},
+{
+  "DailySales": 2545,
+  "Date": "2020-01-30",
+  "RegionCode": "25a"
+},
+{
+  "DailySales": 867,
+  "Date": "2020-01-30",
+  "RegionCode": "2a"
+},
+{
+  "DailySales": 690,
+  "Date": "2020-01-30",
+  "RegionCode": "2b"
+},
+{
+  "DailySales": 120,
+  "Date": "2020-01-30",
+  "RegionCode": "2c"
+},
+{
+  "DailySales": 5650,
+  "Date": "2020-01-30",
+  "RegionCode": "4a"
+},
+{
+  "DailySales": 815,
+  "Date": "2020-01-30",
+  "RegionCode": "4b"
+},
+{
+  "DailySales": 1035,
+  "Date": "2020-01-30",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 9720,
+  "Date": "2020-01-30",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 80,
+  "Date": "2020-01-30",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 71765,
+  "Date": "2020-01-30",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 300,
+  "Date": "2020-01-30",
+  "RegionCode": "7c"
+},
+{
+  "DailySales": 395,
+  "Date": "2020-01-30",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 324,
+  "Date": "2020-01-31",
+  "RegionCode": "10a"
+},
+{
+  "DailySales": 17531,
+  "Date": "2020-01-31",
+  "RegionCode": "11b"
+},
+{
+  "DailySales": 811,
+  "Date": "2020-01-31",
+  "RegionCode": "12a"
+},
+{
+  "DailySales": 130,
+  "Date": "2020-01-31",
+  "RegionCode": "1a"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-31",
+  "RegionCode": "1b"
+},
+{
+  "DailySales": 75,
+  "Date": "2020-01-31",
+  "RegionCode": "1d"
+},
+{
+  "DailySales": 948,
+  "Date": "2020-01-31",
+  "RegionCode": "20a"
+},
+{
+  "DailySales": 10202,
+  "Date": "2020-01-31",
+  "RegionCode": "21b"
+},
+{
+  "DailySales": 1550,
+  "Date": "2020-01-31",
+  "RegionCode": "4b"
+},
+{
+  "DailySales": 615,
+  "Date": "2020-01-31",
+  "RegionCode": "6a"
+},
+{
+  "DailySales": 2765,
+  "Date": "2020-01-31",
+  "RegionCode": "6b"
+},
+{
+  "DailySales": 0,
+  "Date": "2020-01-31",
+  "RegionCode": "7a"
+},
+{
+  "DailySales": 1205,
+  "Date": "2020-01-31",
+  "RegionCode": "7b"
+},
+{
+  "DailySales": 920,
+  "Date": "2020-01-31",
+  "RegionCode": "8a"
+},
+{
+  "DailySales": 4175,
+  "Date": "2020-01-31",
+  "RegionCode": "9a"
+}]
