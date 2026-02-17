@@ -1,0 +1,84 @@
+[{
+  "TotalPurchaseCost": 335797.22,
+  "SupplierCode": "007",
+  "FinancialMonth": "April",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 852563,
+  "SupplierCode": "010",
+  "FinancialMonth": "August",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 7500,
+  "SupplierCode": "PG001",
+  "FinancialMonth": "August",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 36215.85,
+  "SupplierCode": "005",
+  "FinancialMonth": "December",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 104989.33,
+  "SupplierCode": "012",
+  "FinancialMonth": "January",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 1795408.35,
+  "SupplierCode": "009",
+  "FinancialMonth": "July",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 38145.76,
+  "SupplierCode": "ADAG01",
+  "FinancialMonth": "July",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 1506556.45,
+  "SupplierCode": "006",
+  "FinancialMonth": "March",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 840576.94,
+  "SupplierCode": "008",
+  "FinancialMonth": "May",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 976940.77,
+  "SupplierCode": "011",
+  "FinancialMonth": "November",
+  "FinancialYear": 2018
+},
+{
+  "TotalPurchaseCost": 957634.21,
+  "SupplierCode": "007",
+  "FinancialMonth": "April",
+  "FinancialYear": 2019
+},
+{
+  "TotalPurchaseCost": 420059.1,
+  "SupplierCode": "006",
+  "FinancialMonth": "August",
+  "FinancialYear": 2019
+},
+{
+  "TotalPurchaseCost": 1219718.96,
+  "SupplierCode": "014",
+  "FinancialMonth": "February",
+  "FinancialYear": 2019
+},
+{
+  "TotalPurchaseCost": 1880633.73,
+  "SupplierCode": "011",
+  "FinancialMonth": "November",
+  "FinancialYear": 2019
+}]
