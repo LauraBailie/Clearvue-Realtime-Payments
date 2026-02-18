@@ -64,7 +64,7 @@ MongoDB ──(aggregations)──▶ Kafka Producer ──▶ Kafka Broker ─�
 ## 📷 Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshots/Apache-Kafka-real-time-payments-stream.mp4)
+![Dashboard](screenshots/dashboard-demo.gif)
 
 ![Dashboard](screenshots/daily-sales-by-region-2020.JPG)
 
@@ -112,7 +112,7 @@ Follow the streaming dataset in Power BI Service to connect visuals.
 
 ## 📫 Contact
 
-Laura Bailie •
+Laura Bailie 
 
 📍 Cape Town, South Africa
 
