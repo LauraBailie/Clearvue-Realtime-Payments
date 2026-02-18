@@ -47,10 +47,15 @@ MongoDB ──(aggregations)──▶ Kafka Producer ──▶ Kafka Broker ─�
 ## 📁 Project Structure
 
 ├── kafka_producer.py # Sends payment events to Kafka
+
 ├── kafka_consumer.py # Consumes payment events and pushes to Power BI
+
 ├── mongodb_aggregations.js # MongoDB query pipelines
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
+
 └── screenshots/ # Dashboard & architecture images
 
 
@@ -61,15 +66,15 @@ MongoDB ──(aggregations)──▶ Kafka Producer ──▶ Kafka Broker ─�
 ### Dashboard Overview
 ![Dashboard](screenshots/Apache-Kafka-real-time-payments-stream.mp4)
 
-![Dashboard](screenshots/daily-sales-by-region-2020.jpg)
+![Dashboard](screenshots/daily-sales-by-region-2020.JPG)
 
-![Dashboard](screenshots/gross-profit-by-year.jpg)
+![Dashboard](screenshots/gross-profit-by-year.JPG)
 
-![Dashboard](screenshots/sales-by-transaction-types.jpg)
+![Dashboard](screenshots/sales-by-transaction-types.JPG)
 
-![Dashboard](screenshots/sum-of-discounts-given.jpg)
+![Dashboard](screenshots/sum-of-discounts-given.JPG)
 
-![Dashboard](screenshots/total-amounts-due-age-analysis.jpg)
+![Dashboard](screenshots/total-amounts-due-age-analysis.JPG)
 
 ### Architecture Diagram
 ![Architecture](screenshots/architecture.png)
@@ -97,13 +102,18 @@ Follow the streaming dataset in Power BI Service to connect visuals.
 ## 📌 Use Cases
 
 ✔ Real-time financial reporting
+
 ✔ Live sales dashboards
+
 ✔ Streaming operational monitoring
+
 ✔ Prototypes for business intelligence
+
 
 ## 📫 Contact
 
 Laura Bailie •
+
 📍 Cape Town, South Africa
 
 💼 LinkedIn: https://www.linkedin.com/in/laura-bailie-2167b820b/ 
