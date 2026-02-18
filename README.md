@@ -27,6 +27,7 @@ As events are produced, visualizations update *in real-time* — ideal for monit
 ## 🧠 Architecture
 
 Below is a simplified architecture diagram of how the components interact:
+
 MongoDB ──(aggregations)──▶ Kafka Producer ──▶ Kafka Broker ──▶ Kafka Consumer ──▶ Power BI
 
 > Payments are aggregated and streamed using Kafka. The consumer pushes data into a Power BI streaming dataset for live dashboards.
@@ -93,16 +94,18 @@ python kafka_consumer.py
 ### 5. View Power BI live dashboard
 Follow the streaming dataset in Power BI Service to connect visuals.
 
-📌 Use Cases
+## 📌 Use Cases
 
 ✔ Real-time financial reporting
 ✔ Live sales dashboards
 ✔ Streaming operational monitoring
 ✔ Prototypes for business intelligence
 
-📫 Contact
+## 📫 Contact
 
 Laura Bailie •
-📍 Cape Town, SA
+📍 Cape Town, South Africa
+
 💼 LinkedIn: https://www.linkedin.com/in/laura-bailie-2167b820b/ 
+
 ✉️ Email: laurabailie11@gmail.com 
